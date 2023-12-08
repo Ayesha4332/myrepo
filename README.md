@@ -1,4 +1,4 @@
 # myrepo
 my repository
 <br>
-created a repo 
+created a repo on github account
